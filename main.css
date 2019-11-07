@@ -1,0 +1,19 @@
+body {
+  Background-color: #80e5ff;
+}
+
+
+img {
+	width: 1000px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	padding-left: 110px;
+}
+
+div {
+	color:black;
+	margin: 5%;
+	padding-left: 20px;
+  border: 5px solid black;
+  background-color: white;
+}
